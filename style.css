@@ -65,7 +65,7 @@ body {
 }
 
 .site-nav a:hover {
-    background: #555;
+    background: transparent;
 }
 
 main.container {

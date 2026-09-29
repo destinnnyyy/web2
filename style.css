@@ -10,7 +10,7 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     line-height: 1.5;
-    background: linear-gradient(135deg, #0b1f4d, #24104f);
+    background: #333;
     color: #f8fafc;
 }
 
@@ -170,7 +170,7 @@ button:hover {
 
 .site-footer {
     width: 100%;
-    background: linear-gradient(135deg, #0b1f4d, #24104f);
+    background: #333;
     color: white;
 }
 

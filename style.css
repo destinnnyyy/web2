@@ -81,7 +81,7 @@ section {
 
 h2 {
     margin-top: 0;
-    border-bottom: 2px solid #b8e0b8;
+    border-bottom: 2px solid #2563eb;
     padding-bottom: 8px;
 }
 
@@ -152,12 +152,12 @@ button:hover {
 }
 
 .data-table thead th {
-    background: #333;
+    background: #24104f;
     color: white;
 }
 
 .data-table tbody tr:nth-child(odd) {
-    background: #e8f3e8;
+    background: #e0e7ff;
 }
 
 .data-table tbody tr:nth-child(even) {
@@ -170,7 +170,7 @@ button:hover {
 
 .site-footer {
     width: 100%;
-    background: #333;
+    background: #16082f;
     color: white;
 }
 

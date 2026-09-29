@@ -48,7 +48,7 @@ body {
 
 .site-nav {
     width: 100%;
-    background: #333;
+    background: transparent;
 }
 
 .nav-inner {
